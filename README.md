@@ -8,7 +8,7 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/xuliyaheizi/xuliyaheizi/assert/images/coding.gif" /><br>
+  <img src="https://cdn.jsdelivr.net/gh/xuliyaheizi/xuliyaheizi/assets/images/coding.gif" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -40,7 +40,7 @@
 <!-- About me 关于我 -->
 ### ? About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/xuliyaheizi/xuliyaheizi/assets/images/steven.png" />
 
 <p>&emsp;&emsp;大家好，我是拾荒。</p>
 <!-- <p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p> -->
@@ -55,11 +55,11 @@
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/xuliyaheizi/xuliyaheizi/assets/images/hr.gif" />
 
 <div align="center" >
 <!-- metrics 基础资料 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
+<img src="https://cdn.jsdelivr.net/gh/xuliyaheizi/xuliyaheizi/github-metrics.svg" />
 
 <!-- GitHub 数据统计 -->
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xuliyaheizi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
