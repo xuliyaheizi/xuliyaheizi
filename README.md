@@ -8,7 +8,7 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/xuliyaheizi/xuliyaheizi/assets/images/coding.gif" /><br>
+  <img src="https://cdn.jsdelivr.net/gh/xuliyaheizi/xuliyaheizi/assets/images/coding.gif"/><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -22,39 +22,35 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=xuliyaheizi&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/xuliyaheizi/xuliyaheizi/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/xuliyaheizi/xuliyaheizi/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/xuliyaheizi/xuliyaheizi/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
-
 </div>
 
-#  ? Hello
+
+#  🙋 Hello
 
 <table>
 <tr><td>
 
 <!-- About me 关于我 -->
-### ? About Me
+### 🤺 About Me
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/xuliyaheizi/xuliyaheizi/assets/images/steven.png" />
 
 <p>&emsp;&emsp;大家好，我是拾荒。</p>
-<!-- <p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p> -->
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p> -->
-
+<p><strong>&emsp;&emsp;I am a slow walker , but I never walk backwards.</strong></p>
 </td></tr>
 
-<tr>
 <td>
 
 
 
-<!-- ########################################## 分割 ########################################## -->
+
 <img width="200%" src="https://cdn.jsdelivr.net/gh/xuliyaheizi/xuliyaheizi/assets/images/hr.gif" />
 
 <div align="center" >
