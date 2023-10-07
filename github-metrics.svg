@@ -386,7 +386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KYX1234/Element-Admin</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Sep 07 2023</span>
                                     </div>
                                 </div>
                                 <div class="field description">基于 Vue3、TypeScript、Vite、Pinia、Element-Plus、Unocss 的一套后台管理框架。</div>
@@ -436,7 +436,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Oct 2023, 13:04:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Oct 2023, 14:08:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
