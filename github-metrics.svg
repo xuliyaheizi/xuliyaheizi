@@ -227,7 +227,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jumpserver/jumpserver</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。</div>
@@ -436,7 +436,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Nov 2023, 16:08:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Nov 2023, 17:04:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
